@@ -1,0 +1,9 @@
+10.6s 1 Submission saved! You can now submit 'submission.csv' to Kaggle.
+13.6s 2 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+13.6s 3 warn(
+13.6s 4 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+14.0s 5 [NbConvertApp] Writing 17392 bytes to __notebook__.ipynb
+15.6s 6 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+15.6s 7 warn(
+15.7s 8 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+16.7s 9 [NbConvertApp] Writing 304028 bytes to __results__.html
